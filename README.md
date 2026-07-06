@@ -1,0 +1,1 @@
+[![actions](https://github.com/gomatic/.github/actions/workflows/actions.yml/badge.svg)](https://github.com/gomatic/.github/actions/workflows/actions.yml) [![docs](https://github.com/gomatic/.github/actions/workflows/docs.yml/badge.svg)](https://github.com/gomatic/.github/actions/workflows/docs.yml)
